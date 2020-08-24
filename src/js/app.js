@@ -74,4 +74,3 @@ const app = {
 };
 
 app.init();
-}

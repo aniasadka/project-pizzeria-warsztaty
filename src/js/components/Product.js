@@ -1,5 +1,4 @@
 import {
-  settings,
   select,
   templates,
   utils,

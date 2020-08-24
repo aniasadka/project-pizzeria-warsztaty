@@ -5,8 +5,7 @@ import {
 
 import Product from './components/Product.js';
 import Cart from './components/Cart.js';
-import AmountWidget from './components/AmountWidget.js';
-import CartProduct from './components/CartProduct.js';
+
 
 const app = {
   initMenu: function () {

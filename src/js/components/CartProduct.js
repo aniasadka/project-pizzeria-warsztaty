@@ -1,5 +1,4 @@
 import {
-  settings,
   select,
   AmountWidget
 } from './settings.js';

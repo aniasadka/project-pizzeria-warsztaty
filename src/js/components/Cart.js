@@ -1,11 +1,11 @@
 import {
   settings,
   select,
-  templates,
-  utils,
   classNames,
-  CartProduct
-} from './settings.js';
+  templates
+} from '../settings.js';
+import utils from '../utils.js';
+import CartProduct from './CartProduct.js';
 
 class Cart {
   constructor(element) {

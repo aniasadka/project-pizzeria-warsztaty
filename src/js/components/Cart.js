@@ -1,3 +1,12 @@
+import {
+  settings,
+  select,
+  templates,
+  utils,
+  classNames,
+  CartProduct
+} from './settings.js';
+
 class Cart {
   constructor(element) {
     const thisCart = this;
